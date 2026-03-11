@@ -1,4 +1,4 @@
-#Promt basics
+# Promt basics
 
 Place this inside every agents folder. 
 4 files. Suggested placement:
